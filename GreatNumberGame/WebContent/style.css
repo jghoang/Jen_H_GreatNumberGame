@@ -1,0 +1,25 @@
+body{
+	max-width: 500px;
+  	margin: 0 auto;
+  	text-align: center;
+	
+}
+.show{
+	display:block;
+}
+.hide{
+	display:none;
+}
+.red, .green{
+	width:300px;
+	padding:20px;
+	margin-bottom:20px;
+	position: relative;
+	left: 70px;
+}
+.red{
+	background-color:red;
+}
+.green{
+	background-color:green;
+}
